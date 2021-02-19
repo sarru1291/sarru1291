@@ -1,4 +1,4 @@
-### Hi there, I'm [Sarvottam Kumar!](https://www.sarvottamkumar.in). 👋
+### Hi there, I'm [Sarvottam Kumar!](https://sarvottamkumar.in). 👋
 
 <a href="https://twitter.com/sarru1291">
   <img align="left" alt="Sarvottam Kumar's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
