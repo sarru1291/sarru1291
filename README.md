@@ -9,6 +9,9 @@
 <a href="https://github.com/sarru1291">
   <img align="left" alt="Sarvottam Kumar's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
+<a href="https://instagram.com/theofficialsarvottam">
+  <img align="left" alt="Sarvottam Kumar's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
 
 <br/>
 <br/>
