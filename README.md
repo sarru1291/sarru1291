@@ -14,5 +14,3 @@
 
 Outside of building apps, I've tackled a range of freelance projects: from creating full-stack solutions to writing Linux tutorials and technical docs that even beginners can follow. Whether it's debugging a tricky API or explaining cron jobs to humans, I’m all about making tech work—and make sense.
 </p>
-<br/>
-<br/>
